@@ -1,5 +1,7 @@
 # Shiny, Let's Be Bad Guys: Exploiting and Mitigating the Top 10 Web App Vulnerabilities
 
+[![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/lets-be-bad-guys.svg)](https://www.staging.guardrails.io)
+
 The Internet is a dangerous place, filled with evildoers out to attack your code
 for fun or profit, so it's not enough to just ship your awesome new web app--you
 have to take the security of your application, your users, and your data
